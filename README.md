@@ -1,6 +1,8 @@
 # HousingProject
 Predicts the House Price in the City of California .
 
+The Project is developed using Python and Jupyter Labs. 
+
 Worked on the project and Fortunately managed to improve the efficiency of the Predicting values.
 We improved the Final Root Mean Square Error Value from 45685.10470776 to 45621.63878493 i.e. 63.46592283
 
